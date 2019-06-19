@@ -1,3 +1,11 @@
+# Recipe App
+
+Recipe App allows you to add new recipes, as well as to delete them. The app comes with three default recipes which are stored inside the State. 
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
